@@ -71,3 +71,5 @@ Ubah method about pada class Controller Page menjadi seperti berikut:
 
 # 11. MEMBUAT LAYOUT WEB DENGAN CSS
 ![Gambar](img/11.png)
+
+
